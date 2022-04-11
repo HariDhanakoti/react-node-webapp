@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+This sample project is to render api response on front end using API's exposed from backend service.
+
 1. Install nodejs - Follow https://techdecodetutorials.com/web-development/how-to-install-node-js-on-windows-11/
 
 2. Post installation - Run command `npm install`
@@ -11,3 +13,6 @@
 5. Run the command to install the fake server to respond to requests `npm install -g json-server`
 
 6. Run backend fake server `npm run server`
+
+
+
